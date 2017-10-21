@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 29/05/2015 03:32:25 p.m..
+     1>Proyecto "D:\Ort\4to año\Olimpiadas\ExamenColegialMayo2015\Problema3Nivel2\Problema3Nivel2\Problema3Nivel2.vcxproj" en el nodo 2 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Ort\4to año\Olimpiadas\ExamenColegialMayo2015\Problema3Nivel2\Debug\Problema3Nivel2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Ort\4to año\Olimpiadas\ExamenColegialMayo2015\Problema3Nivel2\Debug\Problema3Nivel2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Ort\4to año\Olimpiadas\ExamenColegialMayo2015\Problema3Nivel2\Debug\Problema3Nivel2.lib" /MACHINE:X86 Debug\Problema3Nivel2.obj
+         Problema3Nivel2.vcxproj -> D:\Ort\4to año\Olimpiadas\ExamenColegialMayo2015\Problema3Nivel2\Debug\Problema3Nivel2.exe
+     1>Compilación del proyecto terminada "D:\Ort\4to año\Olimpiadas\ExamenColegialMayo2015\Problema3Nivel2\Problema3Nivel2\Problema3Nivel2.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.49

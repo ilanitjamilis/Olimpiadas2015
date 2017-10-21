@@ -1,0 +1,2 @@
+D:\Ort\4to año\Olimpiadas\Nuevos\MiMoto\MiMoto\bin\Debug\MiMoto.exe.config
+D:\Ort\4to año\Olimpiadas\Nuevos\MiMoto\MiMoto\obj\Debug\MiMoto.csprojResolveAssemblyReference.cache

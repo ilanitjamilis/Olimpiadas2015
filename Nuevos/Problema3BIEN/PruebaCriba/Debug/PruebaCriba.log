@@ -1,0 +1,30 @@
+﻿Compilación iniciada a las 26/10/2015 07:03:10 p.m..
+     1>Proyecto "D:\Ort\4to año\Olimpiadas\Nuevos\PruebaCriba\PruebaCriba\PruebaCriba.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\ort\4to año\olimpiadas\nuevos\pruebacriba\pruebacriba\source.cpp(23): warning C4018: '<': no coinciden signed/unsigned
+     1>d:\ort\4to año\olimpiadas\nuevos\pruebacriba\pruebacriba\source.cpp(36): warning C4018: '<=': no coinciden signed/unsigned
+     1>d:\ort\4to año\olimpiadas\nuevos\pruebacriba\pruebacriba\source.cpp(38): warning C4018: '<=': no coinciden signed/unsigned
+     1>d:\ort\4to año\olimpiadas\nuevos\pruebacriba\pruebacriba\source.cpp(40): error C3867: 'std::vector<int,std::allocator<_Ty>>::size': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>d:\ort\4to año\olimpiadas\nuevos\pruebacriba\pruebacriba\source.cpp(40): error C2446: <=': no hay conversión de 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) noexcept const' en 'int'
+                 with
+                 [
+                     _Ty=int
+                 ]
+         d:\ort\4to año\olimpiadas\nuevos\pruebacriba\pruebacriba\source.cpp(40): note: No existe un contexto en el que sea posible realizar esta conversión
+     1>d:\ort\4to año\olimpiadas\nuevos\pruebacriba\pruebacriba\source.cpp(40): error C2297: '<=': no es válido; el operando derecho es de tipo 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) noexcept const'
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>d:\ort\4to año\olimpiadas\nuevos\pruebacriba\pruebacriba\source.cpp(49): warning C4018: '<': no coinciden signed/unsigned
+     1>Compilación del proyecto terminada "D:\Ort\4to año\Olimpiadas\Nuevos\PruebaCriba\PruebaCriba\PruebaCriba.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:02.57

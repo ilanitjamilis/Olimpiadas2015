@@ -1,0 +1,13 @@
+﻿Compilación iniciada a las 03/09/2015 05:24:05 p.m..
+     1>Proyecto "D:\Ort\4to año\Olimpiadas\Nuevos\CinEjemplo\CinEjemplo\CinEjemplo.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CinEjemplo.cpp
+         CinEjemplo.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Ort\4to año\Olimpiadas\Nuevos\CinEjemplo\Debug\CinEjemplo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Ort\4to año\Olimpiadas\Nuevos\CinEjemplo\Debug\CinEjemplo.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Ort\4to año\Olimpiadas\Nuevos\CinEjemplo\Debug\CinEjemplo.lib" /MACHINE:X86 Debug\CinEjemplo.obj
+         CinEjemplo.vcxproj -> D:\Ort\4to año\Olimpiadas\Nuevos\CinEjemplo\Debug\CinEjemplo.exe
+     1>Compilación del proyecto terminada "D:\Ort\4to año\Olimpiadas\Nuevos\CinEjemplo\CinEjemplo\CinEjemplo.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:04.11

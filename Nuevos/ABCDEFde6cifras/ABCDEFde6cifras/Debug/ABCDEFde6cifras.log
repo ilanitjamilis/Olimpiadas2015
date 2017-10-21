@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 26/10/2015 08:58:54 p.m..
+     1>Proyecto "D:\Ort\4to año\Olimpiadas\Nuevos\ABCDEFde6cifras\ABCDEFde6cifras\ABCDEFde6cifras.vcxproj" en el nodo 2 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Ort\4to año\Olimpiadas\Nuevos\ABCDEFde6cifras\Debug\ABCDEFde6cifras.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Ort\4to año\Olimpiadas\Nuevos\ABCDEFde6cifras\Debug\ABCDEFde6cifras.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Ort\4to año\Olimpiadas\Nuevos\ABCDEFde6cifras\Debug\ABCDEFde6cifras.lib" /MACHINE:X86 Debug\Source.obj
+         ABCDEFde6cifras.vcxproj -> D:\Ort\4to año\Olimpiadas\Nuevos\ABCDEFde6cifras\Debug\ABCDEFde6cifras.exe
+     1>Compilación del proyecto terminada "D:\Ort\4to año\Olimpiadas\Nuevos\ABCDEFde6cifras\ABCDEFde6cifras\ABCDEFde6cifras.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.74

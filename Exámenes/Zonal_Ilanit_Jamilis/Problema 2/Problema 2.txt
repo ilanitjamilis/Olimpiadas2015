@@ -1,0 +1,24 @@
+Problema 2: Hallar la canitdad de parejas (X, Y) de enteros positivos menores que 2015 para los cuales
+2*X + 3*Y es primo. 
+
+Solución: Cantidad de parejas = 88929
+
+
+Procedimiento:
+
+Primero declaro todas las variables que necesitaré luego en mi programa. 
+
+Luego hago dos repetitivas para poder ver los valores que toman X y Y en un momento determinado.
+
+Ahora, dentro de las repetitivas, calculo cuanto da la cuenta con los valores de X y Y tomados en el momento. 
+
+Después hago un procedimiento para ver si el resultado obtenido es primo o no. 
+
+Para hacer esto realizo una repetitiva inexacta en la cual me fijo si el número obtenido tiene divisores o no. 
+
+Pongo estas condiciones en el while porque me tengo que fijar mientras el número es primo, pero tambien mientras que una variable auxiliar llamada i sea menor al número el cual me estoy fijando si es primo o no. 
+
+Después pregunto si el número es divisor de i. Si lo es, asigno que este número ya no es primo.  
+
+En caso de que el número haya salido de la repetitiva siendo primo, es decir, que haya salido debido a la segunda condicion, 
+sumo uno a mi variable de contador de soluciones.

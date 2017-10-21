@@ -1,0 +1,10 @@
+Apellido: Jamilis
+Nombre: Ilanit
+DNI: 42102869
+Fecha de nacimiento: 08/09/1999
+Escuela: ORT (sede Almagro)
+Año: 4BTO
+Localidad: CABA
+e-mail: ilanitsj@gmail.com
+Provincia: Buenos Aires
+Lenguaje: C++

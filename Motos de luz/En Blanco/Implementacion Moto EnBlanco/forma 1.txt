@@ -1,0 +1,12 @@
+Forma 1:
+	    if (fil == 0 && col != ancho - 1){//se choca en medio de la linea superior
+                ultima = "derecha";
+            }else if (fil == 0 && col == ancho - 1){//se choca en el borde superior derecho
+                ultima = "abajo";
+            }else if (fil == alto - 1 && col == ancho - 1){//sechoca en el borde inferior derecho
+                ultima = "izquierda";
+            }else if (fil == alto - 1 & col - 1 == 0){//se choca en el borde inferior izquierdo
+                ultima = "arriba";
+            }else if (fil + 1 == 0 && col == 0){//se choca en el borde superior izquierdo
+                ultima = "derecha";
+            }

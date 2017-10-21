@@ -1,0 +1,17 @@
+﻿Build started 25/09/2015 01:55:07 p.m..
+     1>Project "Z:\4to año\Olimpiadas\Pruebas\Zonal_Ilanit_Jamilis\Problema 1\Problema 1\Problema 1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Problema 1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Problema 1.vcxproj -> Z:\4to año\Olimpiadas\Pruebas\Zonal_Ilanit_Jamilis\Problema 1\Debug\Problema 1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Problema 1.unsuccessfulbuild".
+         Touching "Debug\Problema 1.lastbuildstate".
+     1>Done Building Project "Z:\4to año\Olimpiadas\Pruebas\Zonal_Ilanit_Jamilis\Problema 1\Problema 1\Problema 1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
